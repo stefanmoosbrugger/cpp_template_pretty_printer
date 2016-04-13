@@ -1,6 +1,5 @@
 #include <iostream>
 #include <sstream>
-#include <cmath>
 
 std::string pretty(std::string& in) {
 	std::stringstream out;
