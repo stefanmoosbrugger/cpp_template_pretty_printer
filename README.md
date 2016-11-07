@@ -6,7 +6,7 @@ and tries to pretty print the type name in order to make it more readable. The e
 * Compile: `g++ pretty.cpp -o pretty`
 * Run: `./pretty`
 * Example:
-```
+```cpp
 [user@local]$ ./pretty
 give me some templated type:
 vector< vector < some_unreadable_type_name< nested<int>, nested<float>, nested<nested<char>>>>>
