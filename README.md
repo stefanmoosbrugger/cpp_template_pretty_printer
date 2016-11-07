@@ -15,7 +15,7 @@ vector< vector < some_unreadable_type_name< nested<int>, nested<float>, nested<n
 #####PRETTY PRINT BEGIN#####
 vector <
 	 vector  <
-		 some_long_type_name <
+		 some_unreadable_type_name <
 			 nested <int>,
 			 nested <float>,
 			 nested <
